@@ -1,0 +1,278 @@
+   /************************综合查询6*************************************************************************/
+
+    //==VCANS__标准==综合06==字段01==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan011 = "V16VSZH06F01XX1";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan012 = "V16VSZH06F01XX2";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan01Re0 = "V16VSZH06F01RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan01Re1 = "V16VSZH06F01RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan01Re2 = "V16VSZH06F01RE2";      //S     成功3
+    //==VCANS__标准==综合06==字段02=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan021 = "V16VSZH06F02XX1";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan022 = "V16VSZH06F02XX2";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan02Re0 = "V16VSZH06F02RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan02Re1 = "V16VSZH06F02RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan02Re2 = "V16VSZH06F02RE2";      //S     成功
+
+    //==VCANS__标准==综合06==字段03==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan031 = "V16VSZH06F03XX1";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan032 = "V16VSZH06F03XX2";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan03Re0 = "V16VSZH06F03RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan03Re1 = "V16VSZH06F03RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan03Re2 = "V16VSZH06F03RE2";      //S     成功
+    //==VCANS__标准==综合06==字段04=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan041 = "V16VSZH06F04XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan042 = "V16VSZH06F04XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan04Re0 = "V16VSZH06F04RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan04Re1 = "V16VSZH06F04RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan04Re2 = "V16VSZH06F04RE2";      //S     成功
+
+    //==VCANS__标准==综合06==字段05==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan051 = "V16VSZH06F05XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan052 = "V16VSZH06F05XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan05Re0 = "V16VSZH06F05RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan05Re1 = "V16VSZH06F05RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan05Re2 = "V16VSZH06F05RE2";      //S     成功
+    //==VCANS__标准==综合06==字段06==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan061 = "V16VSZH06F06XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan062 = "V16VSZH06F06XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan06Re0 = "V16VSZH06F06RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan06Re1 = "V16VSZH06F06RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan06Re2 = "V16VSZH06F06RE2";      //S     成功2
+    //==VCANS__标准==综合06==字段07
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan071 = "V16VSZH06F07XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan072 = "V16VSZH06F07XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan07Re0 = "V16VSZH06F07RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan07Re1 = "V16VSZH06F07RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan07Re2 = "V16VSZH06F07RE2";      //S     成功
+
+    //==VCANS__标准==综合06==字段08==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan081 = "V16VSZH06F08XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan082 = "V16VSZH06F08XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan08Re0 = "V16VSZH06F08RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan08Re1 = "V16VSZH06F08RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan08Re2 = "V16VSZH06F08RE2";      //S     成功
+
+    //==VCANS__标准==综合06==字段09==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan091 = "V16VSZH06F09XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan092 = "V16VSZH06F09XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan09Re0 = "V16VSZH06F09RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan09Re1 = "V16VSZH06F09RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan09Re2 = "V16VSZH06F09RE2";      //S     成功3
+    //==VCANS__标准==综合06==字段10=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan101 = "V16VSZH06F10XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan102 = "V16VSZH06F10XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan10Re0 = "V16VSZH06F10RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan10Re1 = "V16VSZH06F10RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan10Re2 = "V16VSZH06F10RE2";      //S     成功
+    //==VCANS__标准==综合06==字段11
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan111 = "V16VSZH06F11XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan112 = "V16VSZH06F11XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan11Re0 = "V16VSZH06F11RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan11Re1 = "V16VSZH06F11RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan11Re2 = "V16VSZH06F11RE2";      //S     成功
+    //==VCANS__标准==综合06==字段12=5
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan121 = "V16VSZH06F12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan122 = "V16VSZH06F12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan12Re0 = "V16VSZH06F12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan12Re1 = "V16VSZH06F12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_ZiDuan12Re2 = "V16VSZH06F12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询06
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_CX121 = "V16VSZH06C12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_CX122 = "V16VSZH06C12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_CX12Re0 = "V16VSZH06C12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_CX12Re1 = "V16VSZH06C12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe06_CX12Re2 = "V16VSZH06C12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询06pic
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe06_CX121 = "V16VSZH06P12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe06_CX122 = "V16VSZH06P12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe06_CX12Re0 = "V16VSZH06P12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe06_CX12Re1 = "V16VSZH06P12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe06_CX12Re2 = "V16VSZH06P12RE2";      //S     成功
+
+    /************************综合查询7*************************************************************************/
+
+    //==VCANS__标准==综合07==字段01==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan011 = "V16VSZH07F01XX1";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan012 = "V16VSZH07F01XX2";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan01Re0 = "V16VSZH07F01RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan01Re1 = "V16VSZH07F01RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan01Re2 = "V16VSZH07F01RE2";      //S     成功3
+    //==VCANS__标准==综合07==字段02=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan021 = "V16VSZH07F02XX1";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan022 = "V16VSZH07F02XX2";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan02Re0 = "V16VSZH07F02RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan02Re1 = "V16VSZH07F02RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan02Re2 = "V16VSZH07F02RE2";      //S     成功
+
+    //==VCANS__标准==综合07==字段03==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan031 = "V16VSZH07F03XX1";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan032 = "V16VSZH07F03XX2";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan03Re0 = "V16VSZH07F03RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan03Re1 = "V16VSZH07F03RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan03Re2 = "V16VSZH07F03RE2";      //S     成功
+    //==VCANS__标准==综合07==字段04=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan041 = "V16VSZH07F04XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan042 = "V16VSZH07F04XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan04Re0 = "V16VSZH07F04RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan04Re1 = "V16VSZH07F04RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan04Re2 = "V16VSZH07F04RE2";      //S     成功
+
+    //==VCANS__标准==综合07==字段05==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan051 = "V16VSZH07F05XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan052 = "V16VSZH07F05XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan05Re0 = "V16VSZH07F05RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan05Re1 = "V16VSZH07F05RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan05Re2 = "V16VSZH07F05RE2";      //S     成功
+    //==VCANS__标准==综合07==字段06==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan061 = "V16VSZH07F06XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan062 = "V16VSZH07F06XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan06Re0 = "V16VSZH07F06RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan06Re1 = "V16VSZH07F06RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan06Re2 = "V16VSZH07F06RE2";      //S     成功2
+    //==VCANS__标准==综合07==字段07
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan071 = "V16VSZH07F07XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan072 = "V16VSZH07F07XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan07Re0 = "V16VSZH07F07RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan07Re1 = "V16VSZH07F07RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan07Re2 = "V16VSZH07F07RE2";      //S     成功
+
+    //==VCANS__标准==综合07==字段08==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan081 = "V16VSZH07F08XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan082 = "V16VSZH07F08XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan08Re0 = "V16VSZH07F08RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan08Re1 = "V16VSZH07F08RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan08Re2 = "V16VSZH07F08RE2";      //S     成功
+
+    //==VCANS__标准==综合07==字段09==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan091 = "V16VSZH07F09XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan092 = "V16VSZH07F09XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan09Re0 = "V16VSZH07F09RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan09Re1 = "V16VSZH07F09RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan09Re2 = "V16VSZH07F09RE2";      //S     成功3
+    //==VCANS__标准==综合07==字段10=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan101 = "V16VSZH07F10XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan102 = "V16VSZH07F10XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan10Re0 = "V16VSZH07F10RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan10Re1 = "V16VSZH07F10RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan10Re2 = "V16VSZH07F10RE2";      //S     成功
+    //==VCANS__标准==综合07==字段11
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan111 = "V16VSZH07F11XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan112 = "V16VSZH07F11XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan11Re0 = "V16VSZH07F11RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan11Re1 = "V16VSZH07F11RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan11Re2 = "V16VSZH07F11RE2";      //S     成功
+    //==VCANS__标准==综合07==字段12=5
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan121 = "V16VSZH07F12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan122 = "V16VSZH07F12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan12Re0 = "V16VSZH07F12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan12Re1 = "V16VSZH07F12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_ZiDuan12Re2 = "V16VSZH07F12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询07
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_CX121 = "V16VSZH07C12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_CX122 = "V16VSZH07C12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_CX12Re0 = "V16VSZH07C12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_CX12Re1 = "V16VSZH07C12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe07_CX12Re2 = "V16VSZH07C12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询07pic
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe07_CX121 =   "V16VSZH07P12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe07_CX122 =   "V16VSZH07P12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe07_CX12Re0 = "V16VSZH07P12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe07_CX12Re1 = "V16VSZH07P12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe07_CX12Re2 = "V16VSZH07P12RE2";      //S     成功
+
+    /************************综合查询8*************************************************************************/
+
+    //==VCANS__标准==综合08==字段01==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan011 = "V16VSZH08F01XX1";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan012 = "V16VSZH08F01XX2";      //C     [字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan01Re0 = "V16VSZH08F01RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan01Re1 = "V16VSZH08F01RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan01Re2 = "V16VSZH08F01RE2";      //S     成功3
+    //==VCANS__标准==综合08==字段02=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan021 = "V16VSZH08F02XX1";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan022 = "V16VSZH08F02XX2";      //C     [字段2,字段01,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan02Re0 = "V16VSZH08F02RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan02Re1 = "V16VSZH08F02RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan02Re2 = "V16VSZH08F02RE2";      //S     成功
+
+    //==VCANS__标准==综合08==字段03==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan031 = "V16VSZH08F03XX1";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan032 = "V16VSZH08F03XX2";      //C     [字段3,字段01,字段02,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan03Re0 = "V16VSZH08F03RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan03Re1 = "V16VSZH08F03RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan03Re2 = "V16VSZH08F03RE2";      //S     成功
+    //==VCANS__标准==综合08==字段04=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan041 = "V16VSZH08F04XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan042 = "V16VSZH08F04XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan04Re0 = "V16VSZH08F04RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan04Re1 = "V16VSZH08F04RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan04Re2 = "V16VSZH08F04RE2";      //S     成功
+
+    //==VCANS__标准==综合06==字段05==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan051 = "V16VSZH08F05XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan052 = "V16VSZH08F05XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan05Re0 = "V16VSZH08F05RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan05Re1 = "V16VSZH08F05RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan05Re2 = "V16VSZH08F05RE2";      //S     成功
+    //==VCANS__标准==综合08==字段06==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan061 = "V16VSZH08F06XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan062 = "V16VSZH08F06XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan06Re0 = "V16VSZH08F06RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan06Re1 = "V16VSZH08F06RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan06Re2 = "V16VSZH08F06RE2";      //S     成功2
+    //==VCANS__标准==综合08==字段07
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan071 = "V16VSZH08F07XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan072 = "V16VSZH08F07XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan07Re0 = "V16VSZH08F07RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan07Re1 = "V16VSZH08F07RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan07Re2 = "V16VSZH08F07RE2";      //S     成功
+
+    //==VCANS__标准==综合08==字段08==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan081 = "V16VSZH08F08XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan082 = "V16VSZH08F08XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan08Re0 = "V16VSZH08F08RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan08Re1 = "V16VSZH08F08RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan08Re2 = "V16VSZH08F08RE2";      //S     成功
+
+    //==VCANS__标准==综合08==字段09==
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan091 = "V16VSZH08F09XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan092 = "V16VSZH08F09XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan09Re0 = "V16VSZH08F09RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan09Re1 = "V16VSZH08F09RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan09Re2 = "V16VSZH08F09RE2";      //S     成功3
+    //==VCANS__标准==综合08==字段10=
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan101 = "V16VSZH08F10XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan102 = "V16VSZH08F10XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan10Re0 = "V16VSZH08F10RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan10Re1 = "V16VSZH08F10RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan10Re2 = "V16VSZH08F10RE2";      //S     成功
+    //==VCANS__标准==综合08==字段11
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan111 = "V16VSZH08F11XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan112 = "V16VSZH08F11XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan11Re0 = "V16VSZH08F11RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan11Re1 = "V16VSZH08F11RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan11Re2 = "V16VSZH08F11RE2";      //S     成功
+    //==VCANS__标准==综合08==字段12=5
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan121 = "V16VSZH08F12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan122 = "V16VSZH08F12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan12Re0 = "V16VSZH087F12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan12Re1 = "V16VSZH08F12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_ZiDuan12Re2 = "V16VSZH08F12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询08
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_CX121 = "V16VSZH08C12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_CX122 = "V16VSZH08C12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_CX12Re0 = "V16VSZH08C12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_CX12Re1 = "V16VSZH08C12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_ZonHe08_CX12Re2 = "V16VSZH08C12RE2";      //S     成功
+
+    //==VCANS__标准==综合查询08pic
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe08_CX121 =   "V16VSZH08P12XX1";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe08_CX122 =   "V16VSZH08P12XX2";      //C     [字段4,字段01,字段02,字段03,,用户名]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe08_CX12Re0 = "V16VSZH08P12RE0";      //S     成功
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe08_CX12Re1 = "V16VSZH08P12RE1";      //S     失败    [失败信息]
+    public static final String m_vfxVAG62VCANSBiaoZhun_PZonHe08_CX12Re2 = "V16VSZH08P12RE2";      //S     成功
