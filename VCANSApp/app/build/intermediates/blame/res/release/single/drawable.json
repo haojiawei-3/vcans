@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_normal.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_normal.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_pressed.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\minus.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\windowbg.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\windowbg.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_while.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_bg.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\copyright_text.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\copyright_text.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao1.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao1.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_disable.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_disable.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_item_background.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\selector_item_background.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_sharp.gif",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\logo_sharp.gif"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\et_disabled.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\et_disabled.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camerablue.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\camerablue.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banner_text.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\banner_text.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gv_item_style.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\gv_item_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shooter.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\shooter.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\slr_camera.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\slr_camera.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_btn.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao3.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao3.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_pressed.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_c.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\in_right_left.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\in_right_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bt_nobgd.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_card.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\contact_card.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nvtv_m.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\nvtv_m.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bullet_add.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\bullet_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kaddressbook.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\kaddressbook.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\check_box_bg.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\check_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bullet_delete.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\bullet_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\in_left_right.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\in_left_right.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_no_bottom.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\border_no_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mpsdbtn.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mpsdbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\usercard.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\usercard.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popup_enter.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\popup_enter.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cri_rect.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_cri_rect.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_m.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\setting_m.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tianjia.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\tianjia.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_disable.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_disable.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camerared.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\camerared.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao3.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao3.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\windowbg.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\windowbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_normal.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_normal.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_pressed.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape2.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\in_left_right.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\in_left_right.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\et.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_m.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\contact_m.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_focused.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border1.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle_gray.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle_gray.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bt_nobgd.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\add.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\copyright_text.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\copyright_text.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_menu_normal.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tianjia.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\tianjia.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\add.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mmtitle_bg_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popw.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\popw.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\et_disabled.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\et_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_right_btn.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_right_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_circle.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banner_text.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\banner_text.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle_gray.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle_gray.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bullet_delete.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\bullet_delete.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_m.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\contact_m.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camera_snap.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\camera_snap.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_cri_rect.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_cri_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gdxq.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\gdxq.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_gray.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\slr_camera.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\slr_camera.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_dn.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_dn.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider_liner.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\divider_liner.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bullet_add.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\bullet_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camerablue.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\camerablue.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_sharp.gif",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\logo_sharp.gif"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border1.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gdxq.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\gdxq.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\snap.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_right_btn.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_right_btn.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\out_right_left.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\out_right_left.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_focused.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_menu_normal.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\snap.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popw.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\popw.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\earth.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popup_enter.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\popup_enter.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nvtv_m.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\nvtv_m.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_gray.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_gray.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_foc.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_foc.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_focused.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_del_state.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shooter_m.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\shooter_m.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gv_item_style.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\gv_item_style.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_circle.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kaddressbook.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\kaddressbook.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle_right.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle_right.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_foc.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_foc.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nvtv.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\nvtv.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camerared.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\camerared.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\out_left_right.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\out_left_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\out_left_right.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\out_left_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_pressed.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_normal.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao2.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_angle_right.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\text_angle_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_no_bottom.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\border_no_bottom.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_circle_bak.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_circle_bak.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape1.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\in_right_left.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\in_right_left.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_normal.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape2.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\management.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\management.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape1.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\shape1.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_del_state.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popup_exit.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_carema.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\button_carema.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\usercard.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\usercard.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_right.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\border_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\out_right_left.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\out_right_left.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao1.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao1.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shooter.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\shooter.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider_liner.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\divider_liner.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_bg.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_bg.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\management_m.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\management_m.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nvtv.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\nvtv.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\camera_snap.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\camera_snap.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mmtitle_bg_alpha.9.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_m.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\setting_m.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style_pressed.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_circle_bak.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_circle_bak.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_c.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mpsdbtn.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\mpsdbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\check_box_bg.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\check_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\popup_exit.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_while.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\management.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\management.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\management_m.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\management_m.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao2.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\tijiao2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_card.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\contact_card.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_item_background.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\selector_item_background.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_style.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\btn_style.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snap_dn.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\snap_dn.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\minus.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_btn.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_right.xml",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\border_right.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\et.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shooter_m.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\shooter_m.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_normal.9.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_carema.xml",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\button_carema.xml"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\earth.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable\\earth.png"
+    }
+]

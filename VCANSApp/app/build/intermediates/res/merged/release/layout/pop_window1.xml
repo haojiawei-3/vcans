@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popw"
+     android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="horizontal" >
+    <ScrollView 
+                    android:scrollbars="none"
+                    android:layout_width="match_parent"
+				    android:layout_height="wrap_content">
+         <LinearLayout                                                   
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"				   
+				    android:orientation="vertical" >
+   <LinearLayout 
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"         
+        >
+        <TextView
+        android:id="@+id/TextView1"
+        android:text="类别:"    
+        android:textSize="18sp"
+        android:textStyle="bold"
+         style="@style/txtStyle"
+        android:gravity="center"      
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"/>
+        
+           <com.vcans.tool.MultiLineChooseLayout
+                android:id="@+id/multiChoose1"
+                 style="@style/MultiLineChooseLayoutTags.FlowLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"             
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+
+            </com.vcans.tool.MultiLineChooseLayout>
+    </LinearLayout> 
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+        
+         >
+         <TextView
+          android:id="@+id/TextView2"
+          android:text="状态:"    
+          android:textSize="18sp"  
+          android:textStyle="bold"
+           style="@style/txtStyle"
+          android:gravity="center"
+          android:layout_width="wrap_content"
+          android:layout_height="35dp"/>
+           <com.vcans.tool.MultiLineChooseLayout
+                android:id="@+id/multiChoose2"
+                 style="@style/MultiLineChooseLayoutTags.FlowLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+               
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+
+            </com.vcans.tool.MultiLineChooseLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView3"
+            style="@style/txtStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:gravity="center"
+            android:text="担当:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+            <com.vcans.tool.MultiLineChooseLayout
+                android:id="@+id/multiChoose3"
+                  style="@style/MultiLineChooseLayoutTags.FlowLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp">
+            </com.vcans.tool.MultiLineChooseLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:background="@drawable/tianjia"
+        android:layout_marginTop="10dp"
+        android:id="@+id/btnSearchhh"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="35dp" >
+
+        <Button
+            android:id="@+id/btnSearchh"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/scan"
+            android:textColor="@android:color/black" />
+
+    </RelativeLayout>
+
+</LinearLayout> 
+   </ScrollView>
+
+</LinearLayout>

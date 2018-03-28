@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"	 
+	tools:context=".MainActivity" >
+       <GridView
+                
+                android:id="@+id/gridview2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:columnWidth="90dp"
+                android:gravity="center"
+                android:horizontalSpacing="6dp"
+                android:numColumns="3"
+                android:stretchMode="columnWidth"
+                android:layout_above="@id/LinearLayout"
+                android:verticalSpacing="6dp" />
+       
+       
+            <LinearLayout
+               android:id="@+id/LinearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"   
+                 android:layout_above="@id/img"           
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="255dp"
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp" />
+
+                    <include
+                        android:id="@+id/inQrcode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        layout="@layout/qrcode"
+                       
+                         />
+                    
+                    <Button
+                    android:id="@+id/btnSearch"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/scan"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+                </LinearLayout>
+       
+        <ImageView
+         android:id="@+id/img"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/advertyp"
+        android:layout_width="match_parent"
+	    android:layout_height="160dp"
+      />
+
+</RelativeLayout>

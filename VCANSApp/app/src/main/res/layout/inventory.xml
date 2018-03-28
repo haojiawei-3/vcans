@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.vcans.tool.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"  
+    android:background="#ffffff"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/zt"
+         android:layout_marginLeft="12dp"
+        android:orientation="vertical" >
+
+        
+
+        <TextView
+            android:id="@+id/pmph"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/black"
+            android:text="品名" />
+
+        <TextView
+            android:id="@+id/msone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_below="@id/pmph"
+            android:textColor="@color/black"
+            android:text="描述一" />
+
+        
+
+        <TextView
+            android:id="@+id/mstow"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/msone"
+            android:textColor="@color/black"
+            android:text="描述二" />
+        
+        <TextView
+            android:id="@+id/msthree"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/mstow"
+            android:textColor="@color/black"
+            android:text="描述三" />
+
+        <LinearLayout
+            android:id="@+id/black_lay"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"    
+            android:layout_marginRight="10dp"     
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            
+
+            <View
+                android:id="@+id/item_view"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/number_jia" />
+        </LinearLayout>
+
+    </RelativeLayout>
+    <!--  android:background="@drawable/shape2" -->
+    <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/zt"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:textSize="15sp"
+            android:src="@drawable/no_img"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"          
+            android:gravity="center"
+            android:scaleType="centerCrop"
+            android:text="www"  
+            android:textColor="@color/PIblue" />
+
+    
+
+</com.vcans.tool.CheckableLinearLayout>

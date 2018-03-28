@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Xiaomi\VCANSApp\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\core_9e380268f01dce14c41a8918a2fb6d2e6d0cfc00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.android\build-cache\ca6a1da0c8753b880a42e76d0f0df419c39ccd3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\classes_9af562dfc9fe9183344910a393e836460436c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Xiaomi\VCANSApp\app\libs\Amap_2DMap_V5.2.0_20170627.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="15d491b0412f57284157d356bfcb9d6ea017226f">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\Amap_2DMap_V5.2.0_20170627_99ee3a31784b6c97146feb00fb67ef4cb95f8330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\com.amap.api\location\3.8.0\e6f7bc37e0cd684f23fa8d5ce5247d90aae5685f\location-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6f7bc37e0cd684f23fa8d5ce5247d90aae5685f">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\location-3.8.0_3807b4124e18ef3b64a73bf72173daef0af6113a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Xiaomi\VCANSApp\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_6331c03bd3440558908cebec3241029065447dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Xiaomi\VCANSApp\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\photoview-library-1.2.2_b96c739081878d87b86598f124b4cf5ae672f670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.1.0\4669bc7c200009695ba1e990bd4eddac243a00a\greendao-api-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04669bc7c200009695ba1e990bd4eddac243a00a">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\greendao-api-3.1.0_7951898434977e2d54694e692836e6935b2d0dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-generator\3.1.0\3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5\greendao-generator-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\greendao-generator-3.1.0_8d9fd42a6313d58895bbe2a20da72c13894d9c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.1.0\70d6a26bba227c2736606a5eb6edc3c15ac0ad6a\greendao-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70d6a26bba227c2736606a5eb6edc3c15ac0ad6a">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\greendao-3.1.0_9aae97f8450cf774086e47abf9a79b4da19f572c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.23\cd143cd8c02a9f838e3cb75a6dfe133750437f6d\freemarker-2.3.23.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\freemarker-2.3.23_cf1a12b3a08fa1cdd0ccbaddbf7359a0853acb8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Xiaomi\VCANSApp\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5_19d4ff1c42c1d28403c6976f37b7e382013b87b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcans-1\.gradle\caches\modules-2\files-2.1\com.amap.api\3dmap\6.0.1\93339e78c76385aee8b9990f55121087aae1cf38\3dmap-6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93339e78c76385aee8b9990f55121087aae1cf38">
+        <dex dex="G:\Xiaomi\VCANSApp\app\build\intermediates\pre-dexed\debug\3dmap-6.0.1_3c8905b663c89f56fe49def4cd00105e3c52e037.jar" />
+    </item>
+
+</items>

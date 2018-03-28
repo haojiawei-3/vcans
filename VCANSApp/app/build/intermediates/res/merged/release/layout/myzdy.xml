@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"            
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" 
+         xmlns:app="http://schemas.android.com/apk/res/com.Vcan.activity">
+           
+      <RelativeLayout 
+           android:id="@+id/RelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"         
+          >
+          <EditText
+              android:id="@+id/EditText"
+              style="@style/txtStyle"
+               android:visibility="gone"              
+              android:layout_width="match_parent"
+              android:layout_height="40dp" />    
+          
+           <Spinner
+               android:visibility="gone"
+               android:id="@+id/Spinner"
+               android:gravity="center"
+               style="@style/txtStyle"          
+               android:layout_width="match_parent"
+               android:layout_height="40dp"  />
+
+           <TextView
+               android:id="@+id/btnLoadFactoryName"
+               style="?android:attr/buttonBarButtonStyle"
+
+               android:visibility="gone"
+               android:layout_width="33dp"
+               android:layout_height="40dp"
+               android:layout_alignParentRight="true"
+               android:layout_centerInParent="true"                                  
+               android:layout_marginRight="5dp"
+               android:text="+"
+               android:textSize="17sp"
+               android:textColor="@android:color/black" />
+
+           <com.vcans.tool.GifView
+               android:id="@+id/btnScanBarcode"
+               android:visibility="gone"
+               style="?android:attr/buttonBarButtonStyle"
+               android:layout_width="30dp"
+               android:layout_height="30dp"
+               android:layout_alignParentRight="true"
+               android:layout_centerInParent="true"
+               android:layout_marginRight="38dp"
+               android:textColor="@android:color/black"
+               app:gif="@drawable/qrcode_scan" />
+
+      </RelativeLayout>
+    
+
+</LinearLayout>

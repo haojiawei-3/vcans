@@ -1,0 +1,252 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".DPRZTask3"
+    xmlns:app="http://schemas.android.com/apk/res/com.Vcan.activity">
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName7"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用7" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe7"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+                <Button
+                    android:id="@+id/btnLoad1"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName8"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用8" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe8"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+                <Button
+                    android:id="@+id/btnLoad2"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName9"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用9" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe9"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+
+                <Button
+                    android:id="@+id/btnLoad3"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+            </LinearLayout>
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName10"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用10" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe10"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+
+                <Button
+                    android:id="@+id/btnLoad4"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+            </LinearLayout>
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName11"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用11" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe11"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+
+                <Button
+                    android:id="@+id/btnLoad5"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/border"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+                <TextView
+                    android:id="@+id/tvBYName12"
+                    style="@style/txtTitle"
+                    android:layout_width="103dp"
+                    android:text="备用12" />
+
+                <com.vcans.tool.ZDYzuhe
+                    android:id="@+id/ZDYzuhe12"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </com.vcans.tool.ZDYzuhe>
+
+                <Button
+                    android:id="@+id/btnLoad6"
+                    android:layout_width="25dp"
+                    android:layout_height="33dp"
+                    android:layout_marginRight="5dp"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:background="@null"
+                    android:text="+"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black"/>
+            </LinearLayout>
+
+
+
+
+
+
+            <include
+                android:id="@+id/inNext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/next" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
+

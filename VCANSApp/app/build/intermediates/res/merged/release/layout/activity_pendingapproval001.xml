@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".Pendingapproval001" >
+
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+    
+    
+        <uk.co.senab.photoview.PhotoView
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"      
+       
+         />
+		    <!-- <com.vcans.tool.ZoomImageView
+		        android:id="@+id/image"
+                android:scaleType="fitXY"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent" >
+		    </com.vcans.tool.ZoomImageView> -->
+</LinearLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        style="@style/txtLinerLayout" >
+   	
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/txtTitle"
+            android:text="用户名" />
+
+        <Spinner
+            android:id="@+id/dropUser"
+            style="@style/txtStyle" />
+
+        <Button
+            android:id="@+id/btnClearUser"
+            android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        
+        style="@style/txtLinerLayout">
+
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/txtTitle"
+            android:text="密码" />
+
+        <EditText
+            android:id="@+id/txtPwd"
+            style="@style/txtStyle"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnClearPwd"
+            android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:gravity="bottom|center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnOk"
+            android:layout_width="280dp"
+            android:layout_height="40dp"
+            android:background="@drawable/btn_style"
+            android:text="@string/btn_login"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+       
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        
+        <TextView
+            android:id="@+id/tvRZPlanId"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/RZPlanId" />
+
+        <EditText
+            android:id="@+id/txtRZPlanId"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+        <include
+            android:id="@+id/inQrcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode" />
+    </LinearLayout>
+
+    <LinearLayout
+        
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        
+        <TextView
+            android:id="@+id/tvCompanyOrder"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/CompanyOrder" />
+
+        <EditText
+            android:id="@+id/txtCompanyOrder"
+            style="@style/txtStyle"
+            android:layout_width="130dp"/>
+
+        <Button
+            android:id="@+id/btnClearUser"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+  
+    <LinearLayout
+     
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+   		
+
+        <TextView
+            android:id="@+id/tvRZFactoryId"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/RZFactoryId"/>
+
+        <Spinner
+            android:id="@+id/dropRZFactoryId"
+            android:layout_width="130dp"
+            style="@style/txtStyle" />
+        
+        
+         <Button
+            android:id="@+id/btnClearRZFactoryId"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:text="X"
+            android:background="@null"
+            android:visibility="invisible"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+    
+    <LinearLayout
+     	android:id="@+id/layProType"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+   		
+
+        <TextView
+            android:id="@+id/tvProType"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/ProType"/>
+
+        <Spinner
+            android:id="@+id/dropProType"
+            android:layout_width="130dp"
+            style="@style/txtStyle" />
+        
+        
+         <Button
+            android:id="@+id/btnClearRZFactoryId0"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:text="X"
+            android:background="@null"
+            android:visibility="invisible"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+    
+	<LinearLayout
+       
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+          <include
+            android:id="@+id/inNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/next" />
+          
+        <include
+            android:id="@+id/inSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:visibility="gone"
+            layout="@layout/save" />
+
+      
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+    
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+    <ScrollView 
+    
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+         >
+        <TextView
+        android:id="@+id/tvErrorDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:text="Yes,we can !"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" /> 
+        
+       
+        
+        
+    </LinearLayout>
+       
+        
+       
+</ScrollView>
+        <!--  android:visibility="gone" -->
+        <TextView
+               android:id="@+id/Prompt"
+               android:text="上传信息出现错误无法完成是否永久放弃归档为已阅未批"
+               android:textColor="@android:color/black"
+               android:layout_marginLeft="15dp"
+               android:layout_marginRight="15dp"
+               android:layout_marginTop="10dp"
+               android:visibility="gone"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+<LinearLayout 
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"    
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:id="@+id/Layout"    
+        android:visibility="gone"
+        android:layout_height="wrap_content"       
+        >
+        <Button 
+             android:id="@+id/qd"
+             android:text="确定"
+             android:layout_weight="1"    
+             android:background="@drawable/tijiao3"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:textColor="#ffffff"
+             android:layout_height="36dp"/>      
+             <Button 
+             android:id="@+id/quxiao"
+             android:text="取消"
+             android:layout_weight="1"    
+             android:background="@drawable/tijiao3"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:textColor="#ffffff"
+             android:layout_height="36dp"/>    
+    </LinearLayout>
+    
+<TextView
+               android:id="@+id/Prompt1"
+               android:text="上传信息出现错误无法完成是否永久放弃归档为已阅未批"
+               android:textColor="@android:color/black"
+               android:layout_marginLeft="15dp"
+               android:layout_marginRight="15dp"
+               android:layout_marginTop="10dp"
+               android:visibility="gone"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+<LinearLayout 
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"    
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:id="@+id/Layout1"    
+        android:visibility="gone"
+        android:layout_height="wrap_content"       
+        >
+        <Button 
+             android:id="@+id/qd1"
+             android:text="确定"
+             android:layout_weight="1"    
+             android:background="@drawable/tijiao3"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:textColor="#ffffff"
+             android:layout_height="36dp"/>      
+             <Button 
+             android:id="@+id/quxiao1"
+             android:text="取消"
+             android:layout_weight="1"    
+             android:background="@drawable/tijiao3"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:textColor="#ffffff"
+             android:layout_height="36dp"/>    
+    </LinearLayout>
+</LinearLayout>

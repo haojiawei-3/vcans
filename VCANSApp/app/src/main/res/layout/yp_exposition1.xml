@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+  <!--  
+    <ListView android:id="@+id/android:list"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:layout_width="match_parent">
+    </ListView>-->
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+       
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvYpBarCode"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:text="@string/YPBarcode" />
+
+        <EditText
+            android:id="@+id/txtYPBarcode"
+            style="@style/txtStyle"
+            android:layout_width="125dp" />
+
+        <include
+            android:id="@+id/inQrcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode" />
+    </LinearLayout>
+
+	<LinearLayout
+     
+        android:id="@+id/layPrice"
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvYpBarCode1"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:text="@string/price" />
+
+        <EditText
+            android:id="@+id/txtPrice"
+            style="@style/txtStyle"
+             android:inputType="numberDecimal"
+            android:layout_width="129dp" />
+
+        <Button
+            android:id="@+id/btnScanBarcode"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="33dp"
+            android:layout_marginRight="0dp"
+            android:background="@null"
+            android:text="+"
+            android:visibility="invisible"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+    
+	<LinearLayout
+       
+        android:id="@+id/layNum"
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvYpBarCode11"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:text="@string/num" />
+
+        <EditText
+            android:id="@+id/txtNum"
+            style="@style/txtStyle"
+            android:inputType="numberDecimal"
+            android:layout_width="129dp" />
+
+        <Button
+            android:id="@+id/btnScanBarcode1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="33dp"
+            android:layout_marginRight="0dp"
+            android:background="@null"
+            android:text="+"
+            android:visibility="invisible"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+        <include
+        android:id="@+id/inSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/save" />
+        
+        <include
+        android:id="@+id/inNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        layout="@layout/next" />
+        
+        
+    </LinearLayout>
+
+    <LinearLayout
+    
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+       
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/layInfoList"
+            android:background="#99CCFF"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/infoList"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:id="@+id/tvPage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:enabled="false"
+                android:text="(0/1)"
+                android:textColor="@android:color/black" />
+
+            <LinearLayout
+           
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/BtnDelete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="@string/btn_delete"
+                    android:textColor="#0000FF" />
+
+                <Button
+                    android:id="@+id/tvClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="@string/btn_clear"
+                    android:textColor="#0000FF" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/lvProdct"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.98"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/divider_liner"
+                android:dividerHeight="1dp"
+                android:drawSelectorOnTop="false"
+                android:listSelector="#FF9900" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,262 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".Alreadyread1" >
+
+    <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:background="@color/topRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/imgback"
+            android:background="@color/topRed"/>
+        
+         <TextView
+             android:layout_centerInParent="true"
+            android:id="@+id/tvActtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="23dp"
+            android:gravity="center_vertical"
+            android:text="我已阅读"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+         
+      
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tvNetStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textColor="#ffffff"
+            android:layout_marginRight="35dp"
+            android:textSize="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgNetStatus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/connected2"
+            android:text="@string/btn_reg" />
+     </RelativeLayout>
+     
+    <RelativeLayout
+             android:layout_below="@id/LinearLayout"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+       <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/zt1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/shape2"
+            android:gravity="center"
+            android:text="状态"
+            android:textColor="@color/PIblue" />
+
+        <TextView
+            android:id="@+id/sj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fqr"
+            android:layout_marginLeft="14dp"
+            android:layout_toRightOf="@+id/zt1"
+            android:text="时间日期"
+             android:layout_marginTop="3dp"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/xq"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="14dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/tijiao3"
+            android:text="详情" />
+
+        <TextView
+            android:id="@+id/fqr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/xq"
+            android:layout_alignLeft="@+id/sj"
+            android:text="发起人"
+            android:textColor="@color/black" />
+
+    </RelativeLayout>
+         <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:layout_marginLeft="10dp"
+          android:layout_marginRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/relativeLayout1"
+        android:background="#4c4c4c" />
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/st"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_below="@+id/relativeLayout1"
+        android:orientation="vertical" >
+<LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+    >
+    <TextView
+             android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="模块名称:" />
+     <TextView
+            android:id="@+id/mkmcdh1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="模块名称单号:" />
+            <TextView
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="单号:" />
+     
+     <TextView
+            android:id="@+id/mkmcdh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="模块名称单号" />
+</LinearLayout>
+       
+<LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+          android:layout_marginTop="10dp"
+    >
+    <TextView
+            android:id="@+id/TextView1"
+             android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="主题 :" />
+     
+    <TextView
+            android:id="@+id/zt"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="主题 两行" />
+</LinearLayout>
+
+  <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+          android:layout_marginTop="10dp"
+    >
+     <TextView
+          android:textStyle="bold"
+            android:id="@+id/TextView1"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="内容纲要:" />
+     
+     <TextView
+            android:id="@+id/gangyao"
+            
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="内容纲要" />
+</LinearLayout>
+
+        <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_marginTop="10dp"
+    >
+     <TextView
+            android:textStyle="bold"
+            android:id="@+id/TextView1"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="详细说明:" />
+     
+     <TextView
+            android:id="@+id/shuoming"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="详细说明" />
+</LinearLayout>
+    </LinearLayout>
+        
+        
+        
+        </RelativeLayout>
+
+<LinearLayout 
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        >
+        <Button 
+             android:id="@+id/gdxq"
+             android:text="更多详情"
+             android:layout_weight="1"    
+             android:background="@drawable/tijiao3"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:textColor="#ffffff"
+             android:layout_height="36dp"/>    
+    </LinearLayout>
+        
+</RelativeLayout>

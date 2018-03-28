@@ -1,0 +1,261 @@
+<com.vcans.tool.SildingFinishLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/sildingFinishLayout"
+     android:fitsSystemWindows="true"
+    android:background="#ffffff"
+    tools:context=".MlqdActivity4" >
+    
+    <include
+        android:id="@+id/include01"
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+   
+     <ScrollView 
+         android:id="@+id/ScrollView"
+          android:layout_above="@+id/hjw"
+          android:layout_below="@id/include01"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+     
+   <RelativeLayout         
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+          
+       
+        <LinearLayout
+                
+                android:layout_width="fill_parent"
+                android:id="@+id/jjj"
+                android:layout_height="50dp"
+                android:layout_marginTop="0dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="horizontal" >
+
+                <RadioGroup
+                    android:id="@+id/radioGroup1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/rdBtnCh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="已有客户"
+                        android:checked="true"
+                      
+                        android:textColor="@android:color/black" />
+
+                    <RadioButton
+                        android:id="@+id/rdBtnEn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="新客户"
+                       
+                        android:textColor="@android:color/black" />
+                </RadioGroup>
+            </LinearLayout>
+            
+     
+   <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+         android:layout_centerHorizontal="true"  
+         android:layout_below="@id/jjj"   
+        android:id="@+id/LinearLayout1"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="客户编号" />
+
+        <EditText
+            android:id="@+id/khbh"
+            style="@style/txtStyle"
+            android:layout_width="105dp" />
+
+        
+        <Button
+             android:id="@+id/sm"
+             android:layout_marginRight="5dp"
+             android:layout_width="30dp"
+             android:layout_height="30dp"
+             android:background="@drawable/qrcode_scan" />
+        <Button
+            android:id="@+id/cxun"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/scan"          
+            android:layout_width="25dp"
+            android:layout_height="25dp"         />
+    </LinearLayout>
+    
+   <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+         android:layout_centerHorizontal="true"
+        android:id="@+id/LinearLayout2"
+         android:layout_below="@id/LinearLayout1"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"      
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"            
+            android:layout_width="90dp"
+            android:text="客户名称" />
+
+       <EditText
+            android:id="@+id/khmc"
+            style="@style/txtStyle"
+            android:layout_width="170dp" />
+
+        
+    </LinearLayout>
+    
+   <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+          android:layout_centerHorizontal="true"
+        android:id="@+id/LinearLayout3"
+         android:layout_below="@id/LinearLayout2"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="联系人" />
+
+      <EditText
+            android:id="@+id/lxr"
+            style="@style/txtStyle"
+            android:layout_width="170dp" />
+
+      
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+          android:layout_centerHorizontal="true"
+         android:id="@+id/LinearLayout4"
+         android:layout_below="@id/LinearLayout3"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="联系电话" />
+
+        <EditText
+            android:id="@+id/lxdh"
+            style="@style/txtStyle"
+            android:layout_width="170dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+         android:layout_marginTop="15dp"
+         android:layout_centerHorizontal="true"
+         android:id="@+id/LinearLayout5"
+         android:layout_below="@id/LinearLayout4"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="联系地址" />
+          <EditText
+            android:id="@+id/lxadd"
+            style="@style/txtStyle"
+            android:layout_width="170dp" />
+
+       
+    </LinearLayout>
+    
+    <LinearLayout
+         android:layout_width="wrap_content"
+         android:layout_height="50dp"
+         android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+         android:id="@+id/LinearLayout6"
+         android:layout_below="@id/LinearLayout5"
+         android:background="@drawable/border"
+         android:gravity="center_vertical"
+         android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="收藏备注" />
+          <EditText
+            android:id="@+id/scbz"
+            style="@style/txtStyle"
+            android:layout_width="170dp" />
+
+        
+    </LinearLayout>
+
+    
+    
+    </RelativeLayout>
+    </ScrollView>
+<LinearLayout 
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:id="@+id/hjw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+   
+     <Button 
+             android:id="@+id/bc"
+             android:text="缓存"
+             android:textColor="#ffffff"
+             android:layout_weight="1"    
+             android:background="@drawable/tianjia"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="5dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:layout_height="40dp"/>  
+             
+        <Button 
+             android:id="@+id/qd"
+             android:text="提交"
+             android:textColor="#ffffff"
+             android:layout_weight="1"    
+             android:background="@drawable/tianjia"   
+             android:layout_marginLeft="5dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:layout_height="40dp"/>       
+    </LinearLayout>
+</com.vcans.tool.SildingFinishLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+    <!--  
+    <ListView android:id="@+id/android:list"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:layout_width="match_parent">
+    </ListView>-->
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+      <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvColor"
+            style="@style/txtTitle"
+            android:layout_width="110dp"
+            android:text="@string/Color"
+            android:textSize="11dp" />
+
+        <Spinner
+            android:id="@+id/dropColor"
+            style="@style/txtStyle"
+            android:layout_width="130dp"/>
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId"
+            android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layFabricQuality"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvGongYi2_1"
+            style="@style/txtTitle"
+            android:layout_width="110dp"
+            android:text="@string/gongyi2_1" />
+
+        <Spinner
+            android:id="@+id/dropGongYi2_1"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId0"
+            android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layKGM"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvGongYi2_2"
+            style="@style/txtTitle"
+            android:layout_width="110dp"
+            android:text="@string/gongyi2_2" />
+
+        <Spinner
+            android:id="@+id/dropGongYi2_2"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId01"
+           	android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+    
+    <LinearLayout
+        style="@style/txtLinerLayout" >
+
+        <TextView
+            android:id="@+id/tvGongYi2_3"
+            style="@style/txtTitle"
+            android:layout_width="110dp"
+            android:text="@string/gongyi2_3" />
+
+        <Spinner
+            android:id="@+id/dropGongYi2_3"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <Button
+            android:id="@+id/btnClearUser"
+            android:layout_width="10dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/inNext"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/next" />
+
+</LinearLayout>

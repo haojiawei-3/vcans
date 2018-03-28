@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+   <!--  
+    <ListView android:id="@+id/android:list"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:layout_width="match_parent">
+    </ListView>-->
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvDataItem6"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="备用数据6" />
+
+        <EditText
+            android:id="@+id/txtDataItem6"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+         <include
+            android:id="@+id/inQrcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvDataItem7"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="备用数据7" />
+
+        <EditText
+            android:id="@+id/txtDataItem7"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <include
+            android:id="@+id/inQrcode2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData8"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="备用辅助8" />
+
+        <Spinner
+            android:id="@+id/dropFuZhuData8"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId5"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvFuZhuData9"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="备用辅助9" />
+
+        <Spinner
+            android:id="@+id/dropFuZhuData9"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId9"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+ <!-- 数量 -->
+        <LinearLayout
+            android:id="@+id/layNum"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+             android:layout_marginTop="15dp"
+             android:background="@drawable/border"
+               android:gravity="center_vertical"
+            android:orientation="horizontal"
+             >
+             <TextView
+                android:id="@+id/tvPiShu"
+                style="@style/txtTitle"
+                android:layout_width="103dp"
+                android:text="@string/pishu" />
+
+            <EditText
+                android:id="@+id/txtPiShu"
+                style="@style/txtStyle"
+                android:layout_width="130dp"
+                android:inputType="numberDecimal" />
+           
+        </LinearLayout>
+        
+        
+         <LinearLayout
+            android:id="@+id/layNum"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+             android:layout_marginTop="15dp"
+             android:background="@drawable/border"
+               android:gravity="center_vertical"
+            android:orientation="horizontal"
+             >
+            
+            <TextView
+                android:id="@+id/tvNum"
+                style="@style/txtTitle"
+                android:layout_width="103dp"
+                android:text="@string/num" />
+
+            <EditText
+                android:id="@+id/txtNum"
+                style="@style/txtStyle"
+                android:layout_width="130dp"
+                android:inputType="numberDecimal" />
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+        <include
+            android:id="@+id/inSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/save" />
+
+        <include
+            android:id="@+id/inNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            layout="@layout/next" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/layInfoList"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#99CCFF"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvListTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/infoList"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:id="@+id/tvPage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:enabled="false"
+                android:text="(0/1)"
+                android:textColor="@android:color/black" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/BtnDelete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="@string/btn_delete"
+                    android:textColor="#0000FF" />
+
+                <Button
+                    android:id="@+id/tvClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="@string/btn_clear"
+                    android:textColor="#0000FF" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/lvProdct"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.98"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/divider_liner"
+                android:dividerHeight="1dp"
+                android:drawSelectorOnTop="false"
+                android:listSelector="#FF9900" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

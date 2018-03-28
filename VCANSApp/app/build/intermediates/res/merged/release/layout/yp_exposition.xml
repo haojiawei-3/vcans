@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+   
+    
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+    
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="@string/CusBarcode" />
+
+        <EditText
+            android:id="@+id/txtCusBarcode"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+       <include
+            android:id="@+id/inQrcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode" />
+    </LinearLayout>
+
+    <LinearLayout
+       
+        android:id="@+id/layCusName"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView10"
+            style="@style/txtTitle"
+            android:layout_width="90dp"
+            android:text="@string/CusName" />
+
+        <EditText
+            android:id="@+id/txtCusName"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+        <Button
+            android:id="@+id/btnScanBarcode"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="33dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="+"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+       
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imgCusCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerInside"
+            android:src="@drawable/contact_card">
+            
+        </ImageView>
+    </LinearLayout>
+    
+    <LinearLayout
+       
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imgCusCardd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerInside"
+            android:src="@drawable/contact_card">
+            
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+       
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+          <include
+            android:id="@+id/inNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/next" />
+          
+        <include
+            android:id="@+id/inSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            layout="@layout/save" />
+
+      
+    </LinearLayout>
+
+</LinearLayout>

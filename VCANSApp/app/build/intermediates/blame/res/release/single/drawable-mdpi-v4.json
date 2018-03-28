@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_choose_back.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_choose_back.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_unselected.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_cancel.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_cancel_pressed.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_unselected.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plubin_camera_del_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_cancel.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_pressed.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_filenum.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_choosed.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_pressed.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_data_select.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_choose_back.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_choose_back.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_shanchu_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_bottom_bar.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plubin_camera_del_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_filenum.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_del_unfocused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_addpic_unfocused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_quxiao_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_data_select.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_queding_unfocused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_shanchu_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_pressed.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_del_unfocused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_addpic_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_queding_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_unselected.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bg_transparent.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_album_back.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_back_btn_pressed.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_addpic_unfocused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_addpic_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_queding_focused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_back_btn.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_pressed.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_album_back.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_back_btn_pressed.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_back_btn.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_bottom_bar.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_queding_unfocused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_unselected.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_quxiao_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_send_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_preview_focused.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_choosed.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\plugin_camera_cancel_pressed.png",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\bg_transparent.png",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\drawable-mdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\vcans-1\\.android\\build-cache\\93c5768daec536e09cc3d66f44080d6cab97b9e3\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    }
+]

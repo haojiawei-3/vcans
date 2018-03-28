@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.vcans.tool.CheckableLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/zt"
+         android:layout_marginLeft="12dp"
+        android:orientation="vertical" >
+
+        
+
+        <TextView
+            android:id="@+id/gldh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/black"
+            android:text="关联单号" />
+
+        <TextView
+            android:id="@+id/rq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/dqr"
+            android:layout_alignBottom="@+id/dqr"
+            android:layout_alignParentRight="true"           
+            android:layout_marginRight="10dp"  
+             android:layout_marginTop="8dp"
+            android:textSize="10sp"    
+            android:textColor="@color/black"     
+            android:text="2016.10.12" />
+
+        <TextView
+            android:id="@+id/dqr"          
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/gldh"
+            android:visibility="gone"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/black"
+            android:text="发起人" />
+
+        <TextView
+            android:id="@+id/xxlx"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+           android:layout_marginTop="5dp"
+           android:layout_below="@id/gldh"
+           android:textColor="@color/black"
+            android:text="信息类型" />
+
+    </RelativeLayout>
+    
+    <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/zt"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:textSize="15sp"
+            android:layout_toRightOf="@+id/CheckBox"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/shape2"
+            android:gravity="center"
+            android:text="www"  
+            android:textColor="@color/PIblue" />
+
+    
+
+</com.vcans.tool.CheckableLinearLayout>

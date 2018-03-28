@@ -1,0 +1,68 @@
+<com.vcans.tool.SildingFinishLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:id="@+id/sildingFinishLayout"
+    tools:context=".MlqdActivity5" 
+    xmlns:app="http://schemas.android.com/apk/res/com.Vcan.activity">
+<!-- com.vcans.tool.SildingFinishLayout -->  
+     <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+     
+     <se.emilsjolander.stickylistheaders.StickyListHeadersListView 
+       android:layout_height="match_parent" 
+       android:layout_width="wrap_content" 
+       android:scrollbarStyle="outsideOverlay" 
+       android:overScrollMode="never" 
+       android:layout_marginLeft="3dp"
+       android:layout_marginRight="3dp"
+        android:layout_below="@id/include01"  
+        android:layout_above="@id/hjw"
+        android:listSelector="#00000000" 
+        android:fastScrollEnabled="true" 
+        android:drawSelectorOnTop="true"
+        android:clipToPadding="false" 
+        android:divider="#F3F3F3"  
+        android:dividerHeight="1px"          
+        android:cacheColorHint="#00000000" 
+        android:id="@+id/list"/>
+     
+      <TextView 
+             android:text="无数据"
+             android:textColor="@color/black"
+             android:gravity="center"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/img"/>
+     
+    
+     
+     <LinearLayout 
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:id="@+id/hjw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+   
+                  
+        <Button 
+             android:id="@+id/qd"
+             android:text="上传"
+             android:textColor="#ffffff"
+             android:layout_weight="1"    
+             android:background="@drawable/tianjia"   
+             android:layout_marginLeft="10dp" 
+             android:layout_marginRight="10dp" 
+             android:layout_marginBottom="6dp"
+             android:layout_width="match_parent"
+             android:layout_height="40dp"/>       
+    </LinearLayout>
+
+</com.vcans.tool.SildingFinishLayout>

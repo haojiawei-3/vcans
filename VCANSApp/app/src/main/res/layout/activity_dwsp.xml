@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DwspActivity" >
+    <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:background="@color/topRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/imgback"
+            android:background="@color/topRed"/>
+        
+         <TextView
+             android:layout_centerInParent="true"
+            android:id="@+id/tvActtitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="23dp"
+            android:gravity="center_vertical"
+            android:text="待我审批"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+         
+      
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tvNetStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textColor="#ffffff"
+            android:layout_marginRight="35dp"
+            android:textSize="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgNetStatus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/connected2"
+            android:text="@string/btn_reg" />
+     </RelativeLayout>
+
+</LinearLayout>

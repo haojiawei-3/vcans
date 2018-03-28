@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+   <!--  
+    <ListView android:id="@+id/android:list"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:layout_width="match_parent">
+    </ListView>-->
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+      
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal" >
+
+        <ListView
+            android:id="@+id/lvProdct"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.98"
+            android:choiceMode="singleChoice"
+            android:divider="@drawable/divider_liner"
+            android:dividerHeight="1dp"
+            android:drawSelectorOnTop="false"
+            android:listSelector="#FF9900" 
+            android:layout_marginTop="0dp">
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

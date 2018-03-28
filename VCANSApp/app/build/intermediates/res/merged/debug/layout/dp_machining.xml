@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" xmlns:app="http://schemas.android.com/apk/res/com.Vcan.activity">
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout style="@style/txtLinerLayout" >
+
+        <TextView
+            android:id="@+id/tvOrderType"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/OrderType" />
+
+        <Spinner
+            android:id="@+id/dropOrderType"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvRZPlanId"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/RZPlanId" />
+
+        <EditText
+            android:id="@+id/txtRZPlanId"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+        <include
+            android:id="@+id/inQrcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/qrcode" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/txtLinerLayout" >
+
+        <TextView
+            android:id="@+id/tvRZFactoryId"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/machiFactoryId" />
+
+        <Spinner
+            android:id="@+id/dropRZFactoryId"
+            style="@style/txtStyle"
+            android:layout_width="128dp"
+            android:clickable="true" />
+
+        <Button
+            android:id="@+id/btnLoadFactory"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="33dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="+"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/txtLinerLayout" >
+
+        <TextView
+            android:id="@+id/tvAimFactoryId"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/AimFactoryId" />
+
+        <EditText
+            android:id="@+id/txtAimFactoryId"
+            style="@style/txtStyle"
+            android:layout_width="128dp"
+            android:enabled="false" />
+        <com.vcans.tool.GifView
+            android:id="@+id/btnScanBarcode2"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="5dp"
+            app:gif="@drawable/qrcode_scan"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/layProType"
+        style="@style/txtLinerLayout" >
+
+        <TextView
+            android:id="@+id/tvProType"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/ProType" />
+
+        <Spinner
+            android:id="@+id/dropProType"
+            style="@style/txtStyle"
+            android:layout_width="128dp" />
+
+        <Button
+            android:id="@+id/btnClearRZFactoryId00"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chkColorAllOut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="@string/ColorAllOut"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <LinearLayout
+       
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+          <include
+            android:id="@+id/inNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/next" />
+          
+        <include
+            android:id="@+id/inSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:visibility="gone"
+            layout="@layout/save" />
+
+      
+    </LinearLayout>
+
+</LinearLayout>

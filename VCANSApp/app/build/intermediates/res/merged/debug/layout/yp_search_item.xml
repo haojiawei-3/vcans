@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LLayoutItem"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iv_YPPic"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="15dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/no_img" />
+    </LinearLayout>
+
+    <LinearLayout
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <!-- 条码 -->
+        <LinearLayout
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+            android:id="@+id/tvBarcode0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="2dp"
+            android:text="条形码:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#CCCCCC" />
+            
+            <TextView
+            android:id="@+id/tvBarcode"
+            android:layout_width="wrap_content"      
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:text="条码"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#CCCCCC" />
+        </LinearLayout>
+		<!-- 品号 条码 -->
+        <LinearLayout
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+            android:id="@+id/tvPinHao0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="2dp"
+            android:text="品    号:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#CCCCCC" />
+            
+            <TextView
+            android:id="@+id/tvPinHao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="2dp"
+            android:text="品号"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#CCCCCC" />
+        </LinearLayout>
+        
+        <!-- 描述 -->
+        <LinearLayout
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+            android:id="@+id/tvDecribe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="2dp"
+            android:text="描述"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#CCCCCC" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

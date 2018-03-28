@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+  
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+    
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/tvCostSelect"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/costSelect" />
+
+        <Spinner
+            android:id="@+id/dropCostSelect"
+            style="@style/txtStyle"
+            android:layout_width="130dp" />
+
+         <Button
+            android:id="@+id/btnLoadFactoryName"
+            android:layout_width="30dp"
+            android:layout_height="33dp"
+            android:layout_marginRight="5dp"
+            style="?android:attr/buttonBarButtonStyle"
+            android:background="@null"
+            android:text="+" 
+            android:visibility="invisible"
+            android:textColor="@android:color/black"/>
+    </LinearLayout>
+
+    <LinearLayout
+        
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvNum"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/num" />
+
+        <EditText
+            android:id="@+id/txtNumber"
+            style="@style/txtStyle"
+            android:layout_width="130dp"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnClearUser0"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+    
+    <LinearLayout
+        
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvPiShu"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/pishu" />
+
+        <EditText
+            android:id="@+id/txtPiShu"
+            style="@style/txtStyle"
+            android:layout_width="130dp"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnClearUser1"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+    
+    <LinearLayout
+        
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvCost"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/cost" />
+
+        <EditText
+            android:id="@+id/txtCost"
+            style="@style/txtStyle"
+            android:layout_width="130dp"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnClearUser10"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        
+        style="@style/txtLinerLayout"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tvRemark"
+            style="@style/txtTitle"
+            android:layout_width="103dp"
+            android:text="@string/remark" />
+
+        <EditText
+            android:id="@+id/txtRemark"
+            android:layout_width="130dp"
+            style="@style/txtStyle" />
+
+        <Button
+            android:id="@+id/btnClearUser2"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="X"
+            android:textColor="@android:color/black"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+   <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="horizontal" >
+
+        <include
+        android:id="@+id/inSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/save" />
+        
+        <include
+        android:id="@+id/inNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        layout="@layout/next" />
+        
+        
+    </LinearLayout>
+
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/layInfoList"
+            android:background="#99CCFF"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:text="信息列表"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:id="@+id/tvPage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="0dp"
+                android:enabled="false"
+                android:text="(0/1)"
+                android:textColor="@android:color/black" />
+
+            <LinearLayout
+                
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/BtnDelete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="删除"
+                    android:textColor="#0000FF" />
+
+                <Button
+                    android:id="@+id/tvClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@null"
+                    android:text="清除"
+                    android:textColor="#0000FF" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/lvProdct"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.98"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/divider_liner"
+                android:dividerHeight="1dp"
+                android:drawSelectorOnTop="false"
+                android:listSelector="#FF9900" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

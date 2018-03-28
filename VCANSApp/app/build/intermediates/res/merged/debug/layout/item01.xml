@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <!--   android:src="@drawable/view1" -->
+<!-- <ImageView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    android:scaleType="centerCrop" HackyViewPager
+    /> -->
+    //解决PhotoView 与 ViewPager   的事件冲突问题  HackyViewPager   +  photoview.PhotoView
+       <photoview.PhotoView
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/IMG"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"      
+       
+         />
+</LinearLayout>

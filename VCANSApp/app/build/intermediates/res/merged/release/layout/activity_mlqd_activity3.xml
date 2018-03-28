@@ -1,0 +1,182 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:id="@+id/MlqdActivity3"
+    tools:context=".MlqdActivity3" >
+
+    <!--<include-->
+        <!--android:id="@+id/include01"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--layout="@layout/main_title" />-->
+
+   
+   <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:background="@color/PIblue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/imgback"
+            android:background="@color/PIblue"/>
+
+         <TextView
+             android:layout_centerInParent="true"
+            android:id="@+id/tvActtitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="23dp"
+            android:gravity="center_vertical"
+            android:text="收藏车"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+
+
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tvNetStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textColor="#ffffff"
+            android:layout_marginRight="35dp"
+            android:textSize="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgNetStatus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/connected2"
+            android:text="@string/btn_reg" />
+     </RelativeLayout>
+     
+    <ExpandableListView
+        android:id="@+id/exListView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:descendantFocusability="beforeDescendants"
+        android:childIndicator="@null"
+        android:groupIndicator="@null" >
+    </ExpandableListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2.5"
+            android:background="#FAFAFA"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/all_chekbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="4dp"
+                android:button="@drawable/check_box_bg"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:gravity="center"
+                android:minHeight="64dp"
+                android:paddingLeft="10dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="合计:"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_total_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥0.00"
+                android:textColor="@color/purple"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        
+        <RelativeLayout 
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:background="#0093DD"
+              android:layout_height="match_parent"
+            
+            >
+             <TextView
+             android:id="@+id/hondian"             
+             android:layout_width="11dp"
+             android:layout_height="11dp"
+             android:layout_marginRight="10dp"
+             android:layout_marginTop="10dp"
+             android:layout_alignParentTop="true"
+             android:layout_alignParentRight="true"
+            
+             android:gravity="center"
+             android:text="0"
+            
+             android:textSize="6sp"
+             android:background="@drawable/shape1" /> 
+            <TextView
+            android:id="@+id/tv_cache"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"         
+            android:clickable="true"
+            android:gravity="center"
+            android:text="缓存"
+            android:textColor="#ffffff" />
+        </RelativeLayout>
+          
+          
+        <TextView
+            android:id="@+id/tv_delete"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/orange"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="#FAFAFA" />
+
+        <TextView
+            android:id="@+id/tv_go_to_pay"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/crimson"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="结算(0)"
+            android:textColor="#FAFAFA" />
+    </LinearLayout>
+</LinearLayout>

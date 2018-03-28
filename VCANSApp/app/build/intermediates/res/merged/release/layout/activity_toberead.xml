@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Alreadyapprove" >
+
+   <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:background="@color/toupeiRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/imgback"
+            android:background="@color/toupeiRed"/>
+        
+         <TextView
+             android:layout_centerInParent="true"
+            android:id="@+id/tvActtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="23dp"
+            android:gravity="center_vertical"
+            android:text="待我阅读"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+         
+      
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tvNetStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textColor="#ffffff"
+            android:layout_marginRight="35dp"
+            android:textSize="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgNetStatus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/connected2"
+            android:text="@string/btn_reg" />
+     </RelativeLayout>
+     
+    <Button 
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:id="@+id/ss"
+            android:hint="搜索/过滤"
+            android:background="@drawable/shape"
+         />
+     <RelativeLayout
+                    android:id="@+id/Layout"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"
+                    
+                    android:visibility="gone"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="match_parent"                      
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp" />
+                 
+
+                    <Button
+                        android:id="@+id/btnSearch"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"                       
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/scan"
+                        android:textColor="@android:color/black" />
+
+            </RelativeLayout>
+     
+     <LinearLayout 
+            android:layout_marginTop="5dp"
+            android:background="#F0EFF4"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">>
+         <ListView 
+             android:id="@+id/lvProdct"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+         </ListView>
+     </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/include01"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+   
+    <LinearLayout
+     
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#cde6c7"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:focusable="true" 
+        android:focusableInTouchMode="true" >
+        
+        <ImageButton
+            android:id="@+id/btnBack"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/imgback"
+            android:textColor="#6666FF" />
+
+        
+         <RelativeLayout
+                    
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="240dp"
+                        android:layout_height="35dp"
+                          android:layout_centerVertical="true"
+                        android:layout_marginLeft="8dp" />
+
+                    <include
+                        android:id="@+id/inQrcode"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:layout_marginRight="38dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        layout="@layout/qrcode"
+                        android:visibility="gone"
+                         />
+
+                        <Button
+                            android:id="@+id/btnSearch"
+                            style="?android:attr/buttonBarButtonStyle"
+                            android:layout_width="23dp"
+                            android:layout_height="23dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/scan"
+                            android:textColor="@android:color/black" />
+                               
+            </RelativeLayout>     
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:id="@+id/llSearchResult"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="#99CCFF"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/tvPage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:enabled="false"
+            android:text="搜索结果: 共0条记录"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvProdct"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.98"
+        android:choiceMode="singleChoice"
+        android:divider="@drawable/divider_liner"
+        android:dividerHeight="1dp"
+        android:drawSelectorOnTop="false"
+        android:listSelector="#FF9900" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/tvTip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/noData"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/black"
+        android:visibility="invisible" />
+
+</LinearLayout>

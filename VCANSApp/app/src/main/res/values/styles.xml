@@ -1,0 +1,229 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="txtTitle" >
+        <item name="android:layout_width">55dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:gravity">right</item>
+        <item name="android:background">@drawable/border_right</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/black</item>:
+    </style>
+    
+    
+    <style name="txtTitlee" >           
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:gravity">center</item>
+         <item name="android:visibility">gone</item>
+        <item name="android:background">@drawable/gdxq</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/black</item>:
+    </style>
+    
+    <style name="txtStyle" >
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    
+    
+     <style name="txtLinerLayout" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/border</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    
+    <style name="Transparent">
+　　        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>      　
+　　    </style>
+
+   <style name="FeelyouWindowAnimTheme" parent="@android:style/Animation.Activity">
+    <item name="android:activityOpenEnterAnimation">@anim/in_from_left</item>
+    <item name="android:activityOpenExitAnimation">@anim/out_from_right</item>
+    <item name="android:activityCloseEnterAnimation">@anim/in_from_right</item>
+    <item name="android:activityCloseExitAnimation">@anim/out_from_left</item>
+</style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+	    <item name="android:background">@android:color/transparent</item>
+	    <item name="android:backgroundDimAmount">0.8</item>
+    </style>
+    
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item> 
+ 		<item name="android:minWidth">270dp</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog"> 
+    	<item name="android:windowFrame">@null</item> 
+        <item name="android:windowIsFloating">true</item> 
+        <item name="android:windowContentOverlay">@null</item> 
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item> 
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item> 
+    </style> 
+       
+    <style name="CustomProgressDialog" parent="@style/CustomDialog"> 
+        <item name="android:windowBackground">@android:color/transparent</item> 
+        <item name="android:windowNoTitle">true</item> 
+    </style>
+  
+    <style name="CameraPreview" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+	</style>
+    
+    
+    <style name="MultiLineChooseLayoutTags.SingleChoose" parent="MultiLineChooseLayoutTags">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="item_textColor">#666666</item>
+        <item name="item_backgroundColor">#ffffff</item>
+        <item name="item_selectedTextColor">#ffffff</item>
+        <item name="item_selectedBackgroundColor">#7289ff</item>
+        <item name="item_radius">0dp</item>
+        <item name="item_strokeColor">#939393</item>
+        <item name="item_selectedStrokeColor">#939393</item>
+        <item name="item_strokeWidth">1px</item>
+        <item name="item_horizontalSpacing">10dp</item>
+        <!--这里设置固定大小,padding为0-->
+        <item name="item_horizontalPadding">10dp</item>
+        <item name="item_verticalPadding">5dp</item>
+        <!--单位dp-->
+        <item name="item_width">80</item>
+        <item name="item_height">40</item>
+        <!--限制tag显示长度,规则查看Textview-->
+        <item name="item_maxEms">5</item>
+        <!--单选-->
+        <item name="item_multiChooseable">false</item>
+    </style>
+    
+ <style name="MultiLineChooseLayoutTags">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="item_textColor">#49C120</item>
+        <item name="item_backgroundColor">#FFFFFF</item>
+        <item name="item_selectedTextColor">#FFFFFF</item>
+        <item name="item_selectedBackgroundColor">#49C120</item>
+        <item name="item_textSize">13sp</item>
+        <item name="item_horizontalSpacing">5dp</item>
+        <item name="item_verticalSpacing">5dp</item>
+        <item name="item_horizontalPadding">12dp</item>
+        <item name="item_verticalPadding">3dp</item>
+        <item name="item_radius">5dp</item>
+        <item name="item_selectedStrokeColor">#49C120</item>
+        <item name="item_strokeWidth">1px</item>
+        <item name="item_multiChooseable">true</item>
+        <item name="item_singleLine">true</item>
+        <item name="item_width">wrap_content</item>
+        <item name="item_height">wrap_content</item>
+    </style>
+    
+  <style name="MultiLineChooseLayoutTags.FlowLayout" parent="MultiLineChooseLayoutTags">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="item_textColor">#666666</item>
+        <item name="item_backgroundColor">#ffffff</item>
+        <item name="item_selectedTextColor">#ffffff</item>
+        <item name="item_selectedBackgroundColor">#0093DD</item>
+        <item name="item_radius">0dp</item>
+        <item name="item_strokeColor">#939393</item>
+        <item name="item_selectedStrokeColor">#939393</item>
+        <item name="item_strokeWidth">1px</item>
+        <item name="item_horizontalSpacing">10dp</item>
+        <!--这里设置固定大小,padding为0-->
+        <item name="item_horizontalPadding">10dp</item>
+        <item name="item_verticalPadding">5dp</item>
+        <!--单位dp-->
+        <item name="item_width">75</item>
+        <item name="item_height">40</item>
+        <!--限制tag显示长度, #0093DD 规则查看Textview-->
+        <item name="item_maxEms">5</item>
+        <!--多选-->
+        <item name="item_multiChooseable">true</item>
+    </style>
+
+    <style name="MultiLineChooseLayoutTags.MultiChoose" parent="MultiLineChooseLayoutTags">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="item_textColor">#666666</item>
+        <item name="item_backgroundColor">#ffffff</item>
+        <item name="item_selectedTextColor">#ffffff</item>
+        <item name="item_selectedBackgroundColor">#9CD3AE</item>
+        <item name="item_radius">0dp</item>
+        <item name="item_strokeColor">#939393</item>
+        <item name="item_selectedStrokeColor">#939393</item>
+        <item name="item_strokeWidth">1px</item>
+        <item name="item_horizontalSpacing">10dp</item>
+        <!--这里设置固定大小,padding为0-->
+        <item name="item_horizontalPadding">10dp</item>
+        <item name="item_verticalPadding">5dp</item>
+        <!--单位dp-->
+        <item name="item_width">75</item>
+        <item name="item_height">40</item>
+        <!--限制tag显示长度, #0093DD 规则查看Textview-->
+        <item name="item_maxEms">5</item>
+        <!--多选-->
+        <item name="item_multiChooseable">true</item>
+    </style>
+
+    <style name="tweetName">
+        <item name="android:textColor">@color/result_view</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <!--<item name="android:textStyle">bold</item>-->
+        <item name="android:shadowColor">#44000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="tweetText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColorLink">#888888</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="tweetDate">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#FFCCCCCC</item>
+    </style>
+    
+
+    
+</resources>

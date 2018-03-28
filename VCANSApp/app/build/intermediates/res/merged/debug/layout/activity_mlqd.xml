@@ -1,0 +1,90 @@
+<com.vcans.tool.SildingFinishLayout1
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/sildingFinishLayout"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".MlqdActivity" >
+    
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+  
+       <RelativeLayout
+                    android:id="@+id/Layout"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"                 
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="match_parent"                      
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp" />
+                 
+                
+                    
+                    <include
+                         android:layout_alignParentRight="true"
+	                        android:layout_centerVertical="true"                       
+				            android:id="@+id/inQrcode"				          
+				            android:layout_width="wrap_content"
+				            android:layout_height="wrap_content"
+				            layout="@layout/qrcode" />
+                     <Button
+                        android:id="@+id/btnSearch"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="40dp"
+                        android:background="@drawable/scan"
+                        android:textColor="@android:color/black" />
+
+            </RelativeLayout>
+          
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <ScrollView
+            android:id="@+id/tools_scrlllview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:id="@+id/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" />
+        </ScrollView>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/goods_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#f1f5f6"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</com.vcans.tool.SildingFinishLayout1>

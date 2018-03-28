@@ -1,0 +1,4 @@
+#Mon Nov 20 10:11:03 CST 2017
+base.0=C\:\\Users\\vcans-1\\Desktop\\ExpandableRecyclerView-master\\VCANSApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\vcans-1\\Desktop\\ExpandableRecyclerView-master\\VCANSApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

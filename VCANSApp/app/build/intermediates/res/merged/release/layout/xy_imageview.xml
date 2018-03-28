@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+ <!--  
+    <ListView android:id="@+id/android:list"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:layout_width="match_parent">
+    </ListView>-->
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#ffe1e0de"
+        android:gravity="bottom|center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnPhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_circle"
+            android:src="@drawable/replace_img"/>
+        
+        <!-- 
+          <Button
+            android:id="@+id/btnPhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="?android:attr/buttonBarButtonStyle"
+            android:gravity="left|center_vertical"
+            android:text="替换"
+            android:textColor="@android:color/black" />
+         -->
+      
+    </LinearLayout>
+
+    <FrameLayout
+     
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+        <com.vcans.adapter.ImageSwitcherV2
+            android:id="@+id/imageSwitcher1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        </com.vcans.adapter.ImageSwitcherV2>
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/viewGroup"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="40dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

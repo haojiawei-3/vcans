@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\raw\\realm_properties",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "C:\\Users\\vcans-1\\Desktop\\VCANSApp\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\raw\\realm_properties",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "G:\\Xiaomi\\VCANSApp\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "G:\\Xiaomi\\VCANSApp\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

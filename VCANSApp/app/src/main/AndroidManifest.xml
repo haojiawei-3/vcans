@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Vcan.activity"
+    android:versionCode="1"
+    android:versionName="1.36.H180315">
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="21" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <!--允许程序打开网络套接字-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--允许程序设置内置sd卡的写权限-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--允许程序获取网络状态-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--允许程序访问WiFi网络信息-->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!--允许程序读写手机状态和身份-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!--用于进行网络定位-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <!--用于访问GPS定位-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <!--用于获取wifi的获取权限，wifi信息会用来进行网络定位-->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission>
+    <!--用于读取手机当前的状态-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <!--用于申请调用A-GPS模块-->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"></uses-permission>
+
+
+    <application
+        android:icon="@drawable/vcans"
+        android:label="@string/app_name"
+        android:largeHeap="true">
+        <activity
+            android:name=".VCANSAppActivity"
+            android:icon="@drawable/logo0"
+            android:screenOrientation="portrait"
+            android:theme="@style/FeelyouWindowAnimTheme"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="39bcabd0cb6e8060bfdf540eb2186e32" />
+//89:DB:4E:A1:CA:BA:E1:15:96:67:D6:B2:9D:BC:F8:F9:5F:AB:A6:93
+        //34:EA:F1:9F:73:BA:61:6A:EF:E6:B0:22:1D:1C:4B:70:41:AC:D2:E7
+        <receiver android:name="com.vcans.tool.Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.amap.api.location.APSService"></service>
+        <activity
+            android:name=".SplashActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SysSet"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPLogin"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPMainAct"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPTouPei"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPTouPei1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPTouPei2"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPProductIn"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPProductIn2"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPProductIn2_1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPProductIn3"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".VcansLogin"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPMachining"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPMachining2"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPDetailInfo"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPErrorDetail"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPPeibuIn"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPPeibuIn1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPPeibuIn2"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPRZTask"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPRZTask1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPRZCost"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DPRZCost1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPQuery"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPExposition"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPExposition1"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPBarcodeImage"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".XYImageView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPImageReplace"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".YPQueryAll"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDDirectOut"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDDirectOut1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDDirectOut2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDDirectOut3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDBakModule"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDBakModule1"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDBakModule2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDBakModule3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDBakModule4"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDQuery"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GDQueryResult"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.qr_codescan.MipcaActivityCapture"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="cn.sharp.android.ncr.RecFromSdcard"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light" />
+        <activity
+            android:name="cn.sharp.android.ncr.DisplayRecResult"
+            android:label="@string/rec_result_title"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light">
+            <intent-filter>
+                <action android:name="cn.sharp.android.ncr.DisplayRecResult" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.sharp.android.ncr.PrefSettings"
+            android:label="@string/pref_title"
+            android:theme="@android:style/Theme.Light" />
+        <activity
+            android:name="cn.sharp.android.ncr.StaticRecFromCamera"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale"
+            android:label="@string/title_activity_static_rec_fromcamera"
+            android:screenOrientation="landscape"
+            android:theme="@style/CameraPreview" />
+        <activity
+            android:name=".MpsdActivity"
+            android:label="@string/title_activity_mpsd"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name=".MyBroadcastReceiver">
+            <intent-filter>
+                <action android:name="cn.sharp.android.ncr.DisplayRecResult" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".XiangQingActivity"
+            android:label="@string/title_activity_xiang_qing"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light" />
+        <activity
+            android:name=".MpsbxqActivity"
+            android:label="@string/title_activity_mpsbxq"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Pendingapproval"
+            android:label="@string/title_activity_pendingapproval"
+            android:screenOrientation="portrait"
+            android:theme="@style/FeelyouWindowAnimTheme" />
+        <activity
+            android:name=".Alreadyapprove"
+            android:label="@string/title_activity_alreadyapprove"
+            android:screenOrientation="portrait"
+            android:theme="@style/FeelyouWindowAnimTheme" />
+        <activity
+            android:name=".Notapproved"
+            android:label="@string/title_activity_notapproved"
+            android:screenOrientation="portrait"
+            android:theme="@style/FeelyouWindowAnimTheme" />
+        <activity
+            android:name=".Pendingapproval0"
+            android:label="@string/title_activity_dwspxq"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".Pendingapproval01"
+            android:label="@string/title_activity_pendingapproval01"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Pendingapproval1"
+            android:label="@string/title_activity_pendingapproval1"
+            android:screenOrientation="portrait"
+            android:theme="@style/FeelyouWindowAnimTheme" />
+        <activity
+            android:name=".Alreadyapprove1"
+            android:label="@string/title_activity_alreadyapprove1"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".Notapproved1"
+            android:label="@string/title_activity_notapproved1"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".Pendingapproval001"
+            android:label="@string/title_activity_pendingapproval001"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".MlqdActivity"
+            android:label="@string/title_activity_mlqd"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".MlqdActivity1"
+            android:label="@string/title_activity_mlqd_activity1"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".MlqdActivity2"
+            android:label="@string/title_activity_mlqd_activity2"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".MlqdActivity3"
+            android:label="@string/title_activity_mlqd_activity3"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".MlqdActivity21"
+            android:label="@string/title_activity_mlqd_activity21"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".MlqdActivity4"
+            android:label="@string/title_activity_mlqd_activity4"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".MlqdActivity5"
+            android:label="@string/title_activity_mlqd_activity5"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Transparent"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".XYImgActivity"
+            android:label="@string/title_activity_xyimg" />
+        <activity
+            android:name=".DPRZTask2"
+            android:label="@string/title_activity_dprztask2" />
+        <activity
+            android:name=".DPRZTask21"
+            android:label="@string/title_activity_dprztask21" />
+        <activity
+            android:name=".DPRZTask3"
+            android:label="@string/title_activity_dprztask3"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".DPRZTask31"
+            android:label="@string/title_activity_dprztask31"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".DPRZTask32"
+            android:label="@string/title_activity_dprztask32"
+            android:theme="@style/Transparent" />
+        <activity
+            android:name=".HistoryActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Transparent" />
+        <activity android:name=".ByView1Activity" />
+        <activity android:name=".ByView2Activity" />
+        <activity android:name=".ByView3Activity" />
+        <activity android:name=".ByView4Activity" />
+        <activity android:name=".ByView5Activity" />
+        <activity android:name=".GDQuery1" />
+        <activity android:name=".GDQuery2" />
+        <activity android:name=".GDQuery3Result" />
+        <activity android:name=".MAPActivity"></activity>
+    </application>
+
+</manifest>

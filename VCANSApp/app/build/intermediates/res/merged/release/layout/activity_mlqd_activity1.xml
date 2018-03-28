@@ -1,0 +1,144 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".MlqdActivity1" >
+    
+    <include
+        android:id="@+id/include01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/main_title" />
+
+ 
+   <!--<LinearLayout -->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+           <!--android:orientation="horizontal"         -->
+           <!--android:id="@+id/Layout1"-->
+           <!--&gt;-->
+          <!--<Button -->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginTop="5dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_marginBottom="5dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:id="@+id/ss"-->
+            <!--android:layout_height="36dp"-->
+            <!--android:text="搜索/过滤"-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:layout_weight="1"-->
+            <!--android:textSize="15sp"-->
+            <!--android:background="@drawable/shape"-->
+         <!--/>-->
+          <!---->
+           <!--<Button -->
+            <!--android:layout_marginLeft="3dp"-->
+            <!--android:layout_marginTop="5dp"-->
+            <!--android:layout_marginBottom="5dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:id="@+id/gg"-->
+            <!--android:layout_height="36dp"           -->
+            <!--android:text="过滤"-->
+            <!--android:textSize="15sp"-->
+            <!--android:visibility="gone"-->
+             <!--android:textColor="#ffffff"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="@drawable/shape"-->
+         <!--/>-->
+     <!--</LinearLayout>-->
+    
+     
+       <RelativeLayout
+                    android:id="@+id/Layout"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="match_parent"                      
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp" />
+                 
+
+                    <Button
+                        android:id="@+id/btnSearch11"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="23dp"
+                        android:layout_height="23dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/ati"
+                        android:textColor="@android:color/black" />
+                     <Button
+                        android:id="@+id/btnSearch"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="35dp"
+                        android:background="@drawable/scan"
+                        android:textColor="@android:color/black" />
+
+            </RelativeLayout>
+            
+       <!-- android:background="#F0EFF4"  -->
+           <!--  <com.vcans.tool.playListview          
+           
+            android:id="@+id/refreshable_view"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"> -->
+            
+          <com.vcans.tool.XListView
+             android:id="@+id/lvProdct"          
+
+             android:overScrollMode="never"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">          
+          </com.vcans.tool.XListView>     
+             
+        
+          <TextView 
+             android:text="无数据"
+             android:textColor="@color/black"
+             android:gravity="center"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/img"/> 
+          
+         <!--  </com.vcans.tool.playListview> -->
+ <LinearLayout 
+             android:id="@+id/Linear"
+             android:orientation="horizontal"
+             android:layout_width="match_parent"           
+             android:background="#F0EFF4"
+             android:visibility="gone"
+             android:layout_height="wrap_content">
+        
+          <Button
+           android:id="@+id/dlt"
+           android:text="添加收藏车"
+           android:layout_weight="1"
+           android:layout_width="match_parent"
+           android:background="@drawable/tianjia"   
+           android:layout_marginLeft="5dp"
+           android:layout_marginRight="5dp"
+           android:textColor="#ffffff"
+           android:layout_marginBottom="3dp"
+           android:layout_height="40dp"/>
+     </LinearLayout>
+</LinearLayout>

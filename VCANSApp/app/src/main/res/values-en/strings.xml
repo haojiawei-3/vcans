@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VCANS ERP</string> 
+    
+    <string name="sysInfo">System Info.</string>
+    <string name="userName">User</string> 
+    <string name="NetStatus">Connecting Stastus</string>
+    <string name="ServerIP">Server IP</string>
+    <string name="port">Port ID</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="clickConnect">Click</string>
+    
+    <string name="vcanslogin">VCANS Login</string>
+    <string name="autoLogin">Auto Login</string>
+    <string name="login">Login</string>
+    <string name="nologin">Not Login</string>
+    <string name="favorite">Favorite</string>
+    <string name="history">History</string>
+    <string name="set">Setting</string>
+    <string name="detailInfo">Detail Info.</string>
+    <string name="errorInfo">Error Info.</string>
+    <string name="tipInfo">Prompt Message</string>
+   
+    <string name="sysSet">Settings</string>
+    <string name="ipAndPort">Address/Port ID</string>
+    <string name="ip">Address</string>
+    <string name="picture">Images</string>
+    <string name="ReduceNumber">Reduction</string>
+    <string name="ReduceRate">Ratio</string>
+    <string name="cutPhoto">Cut Picture</string>
+    <string name="other">Others</string>
+    <string name="encrypto">Encrypting data</string>
+    <string name="YPHistoryNum">Queried Records</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="originalPic">Original</string>
+    <string name="restarting">Restarting...</string>
+    
+     <!-- 		跟单大师 	 -->
+    <string name="gendan">Order-Tracking Master</string>  
+    
+     <!-- 坯布进仓 -->
+    <string name="peibuin">Grey In</string> 
+    <string name="chukutongzi">Notice ID</string> 
+    <string name="wuliao">Inventory</string>
+    <string name="baozhuang">Package</string>
+    <string name="mianliao">Fabric Feature</string>
+    <string name="makou">Real Quantity</string>
+    <string name="remark">Remarks</string>
+    <string name="weizhi">Location</string>
+    <string name="pishu">Rolls</string>
+    <string name="num">Quantity</string>
+    <string name="infoList">Information List</string>
+    <string name="goodsLoad">Loading product Info.</string>
+    <string name="infoNull">No data</string>
+    <string name="noSelected">No record is selected</string>
+    <string name="isNUll">Data can not be empty</string>
+    <string name="quannengPei">General Griege Goods</string>
+    <string name="rspei">Dyeing Griege Goods</string>
+    <string name="sezhiPei">Yarn Dyed Griege Goods</string>
+    <string name="yinhuaPei">Printing Griege Goods</string>
+    <string name="banChenPin">Semifinished Fabric</string>
+    <string name="product">Finished Fabric</string>
+    <string name="juanZhuang">Roll Package</string>
+    <string name="piZhuang">Flat Package</string>
+    <string name="baoZhuang">Package</string>
+    <string name="pici">批次号</string>
+     
+    <!-- 生产投坯 -->
+    <string name="toupei">Production Input</string> 
+    <string name="RZPlanId">Plan ID</string> 
+    <string name="CompanyOrder">Order ID</string> 
+    <string name="RZFactoryId">Factory ID</string>
+    <string name="ProType">生产类型名称</string> 
+    <string name="ProTypeId">生产类型编号</string> 
+    <string name="RZFactoryName">Factory Name</string>
+    <string name="Gongxu">Process</string>
+    <string name="huifu">Re-work</string>
+    <string name="InitPBTR">Initial Input</string>
+    <string name="delPiShuNumIsNull">Deduction Rolls or Quantities can not be empty!</string>
+    <string name="backPre">No process data!Return to the previous step.</string>
+    <string name="proColor">Input Color</string>
+    
+    <!-- 成品进仓 -->
+    <string name="productin">Finished Goods</string> 
+    <string name="DelPiShu">Deduction Rolls</string> 
+    <string name="DelNum">Deduction Quantities</string> 
+    <string name="CheckStatus">Inspection Status</string> 
+    <string name="KGM">Ratio(KG-M)</string> 
+    <string name="Color">Style/Color(Output)</string> 
+    <string name="Unit">Unit</string> 
+    <string name="price">U.Price</string> 
+    <string name="gongyi2_1">工艺二1</string> 
+    <string name="gongyi2_2">工艺二2</string> 
+    <string name="gongyi2_3">工艺二3</string> 
+    <string name="gongyiId2_1">工艺二编号1</string> 
+    <string name="gongyiId2_2">工艺二编号2</string> 
+    <string name="gongyiId2_3">工艺二编号3</string> 
+    
+    <!-- 加工送仓库 -->
+    <string name="machining">Process To</string> 
+    <string name="OrderType">Type</string> 
+    <string name="machiFactoryId">Process Factory</string> 
+    <string name="AimFactoryId">Destination Factory</string> 
+    <string name="AimFactoryName">Dest Factory Name</string> 
+    <string name="ColorAllOut">Select All</string> 
+    <string name="fahuo">Delivery</string> 
+    <string name="shouhuo">Goods Recipt</string> 
+    
+    <!-- 任务简报 -->
+    <string name="rztask">Task Brief</string> 
+    <string name="gongyi">Process</string> 
+    <string name="machiFactoryId1">Factory ID</string> 
+    
+    <!-- 染整费用 -->
+    <string name="rzCost">D&amp;F Cost</string> 
+    <string name="costSelect">D&amp;F Cost</string> 
+    <string name="costSelectId">&#x0009;&#x0009;Cost ID</string>
+    <string name="costSelectName">Cost Name</string>
+    <string name="cost">Charge</string>
+    
+    <string name="gdDirectOut">直接出货</string> 
+    <string name="gdBakModule">备用模块</string> 
+   
+           
+    <string name="gdQuery">综合查询</string>
+
+  
+    <!-- 		样品管家		 -->
+    <string name="YP">Sample Assistant</string> 
+    
+    <!-- 样品查询 -->
+    <string name="YPQuery">Sample Query</string> 
+    <string name="YPBarcode">Barcode</string> 
+    <string name="offlineMode">Offline Mode</string> 
+    <string name="imageList">Images List</string> 
+    <string name="noData">No Record</string> 
+    <string name="pinhao">Art.No.</string> 
+    
+    <!-- 展会询样-->
+    <string name="exposition">Exhibition Inquiry</string> 
+    <string name="CusBarcode">Cust Barcode</string> 
+    <string name="CusName">Brief Name</string> 
+    <string name="CusCard">Name Card</string> 
+    <string name="autoScan">Auto Scan</string> 
+    
+    <!-- 样品图片 -->
+    <string name="YPImage">Sample Picture</string> 
+     <string name="mpsb">Business card</string> 
+    <string name="replaceImage">Replace Picture</string> 
+    <string name="upload_date">Upload</string> 
+    <string name="Rereplace">Replace</string> 
+    <string name="replaceOne">Replace Current</string>
+    <string name="browserImage">Browse</string> 
+    <string name="imageListTip">Images List(Long Press Picture to Replace)</string> 
+    <string name="imageWatchReplace">View/Replace</string> 
+    <string name="image">Picture</string> 
+    <string name="barcode">Barcode</string> 
+  
+	<!-- 按钮 -->
+    <string name="btn_close">Close</string> 
+    <string name="btn_delete">Delete</string> 
+    <string name="btn_clear">Clear</string> 
+    <string name="btn_login">Login</string>  
+    <string name="chk_save_pwd">Save Password</string>
+    <string name="forget_pwd">Forget?</string>
+    <string name="btn_reg">Register</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_upload">Upload</string>
+    <string name="btn_load">Load</string> 
+    <string name="btn_download">Download</string> 
+    <string name="btn_query">Query</string> 
+    <string name="btn_back">Return</string> 
+    <string name="scanQrcdoe">Scan Barcode</string> 
+    <string name="cpyDeviceName">COPY DEVICE NAME</string> 
+    
+    <!-- 列表属性名 -->
+    <string name="goodsId">Product ID</string>
+    <string name="goodsDescribe">Description</string>
+    <string name="storePiShu">Stock Rolls</string>
+    <string name="storeNum">Stock Quantities</string>
+    <string name="zaizhiPiShu">WIP Rolls</string>
+    <string name="zaizhiNum">WIP Quantities</string>   
+    <string name="PurchaseId">PO NO.</string>
+    <string name="storeDescribe">Description</string>
+    <string name="innerId">System ID</string>
+    <string name="gongxuId">Process ID</string>
+    <string name="gongxuName">Process Name</string>
+    <string name="sendGoodsNum">Delivery Quantities</string>
+    <string name="orderNum">Order Quantities</string>
+    <string name="SupplierId">Supplier</string>
+    <string name="CheckStatusId">Inspection Status ID</string> 
+    <string name="CheckName">Inspection Status</string> 
+    <string name="flower">Style</string> 
+    <string name="color2">Color</string> 
+    <string name="chachuPiShu">Output Rolls</string> 
+    <string name="chachuNum">Output Quantities</string> 
+    <string name="gongyiId">Craftwork ID</string> 
+    <string name="gongyiName">Craftwork Name</string>
+    <string name="date">Date</string>
+    <string name="remark1">备用一</string>
+    <string name="remark2">备用二</string>
+    <string name="remark3">备用二</string>
+    <string name="remark4">备用四</string>
+    <string name="remark5">备用五</string>
+   	 
+   
+    <!-- 提示 -->
+    <string name="scan_text">Scan Barcode</string>
+    <string name="stop">Break up system</string>
+    <string name="busy">A request is executing</string>
+    <string name="wait">Waiting</string>
+    <string name="askQuit">Are you sure to exit?</string>
+    <string name="askDelete">Are you sure to delete data?</string>
+    <string name="askClear">Are you sure to clear data?</string>
+    <string name="ok">Ok</string>
+    <string name="cancle">Cancel</string>
+    <string name="quit">Exit</string>
+    <string name="noSDCard">Reading SD card failed,system will not work properly! Possible reasons: the phone is under the USB disk mode.</string>
+    <string name="noSetIpAndPort">Never set IP address and port ID!</string>
+    <string name="autoLoginning">Automatically Loginning...</string>
+    <string name="loginFail">Login failed or connecting timeout!</string>
+    <string name="loginSuccess">Login successed!</string>
+    <string name="noSetIpAndP3ort">Never set IP address and port ID!</string>
+    <string name="noLoginWait">Login failed,try again later.</string>
+    <string name="noPower">Sorry,you have no autherority!</string>
+    <string name="serDisconnect">Server disconnected!</string>
+    <string name="imgDeleted">This picture has been deleted.</string> 
+    <string name="defaultImageNoWatch">Default image is not available.</string> 
+    <string name="inputKey">Input keywords</string> 
+    <string name="autoLogined">Logined automatically.</string> 
+    <string name="rememberValid">Only if both user and password are not empty,you can check "Remember Password"</string> 
+    <string name="userNoNull">User or password can not be empty</string>  
+    <string name="historyInNull">Historical data can not be empty!</string>
+    <string name="ipError">IP address error  </string>
+    <string name="urlError">url address error </string>
+    <string name="setSucc">Setting completed</string>
+    <string name="setFail">Setting failed</string>
+    <string name="partDone">Part of upload data processed successfully.</string>
+    <string name="sendFailOrDisconnect">Fail to send or service is not connected</string>
+	<string name="uploadSuccess">Upload Successed</string>
+	<string name="partUploadError">Part of upload data processed successfully. Failed Records:</string>
+	<string name="sendErrorId">Failed Records:</string>
+	<string name="waitReponse">Waiting server processing...</string>
+	<string name="securityRequest">Security request...</string>
+	<string name="RequestError">Request failed</string>
+	<string name="done">Completed</string>
+	<string name="sendDone">Sending completed.</string>
+	<string name="waitReceive">Waiting to receive data...</string>
+	<string name="datareplace">Data already exists.</string>
+	<string name="freeDisconnect">Service disconnected, try reconnecting again.</string>
+	<string name="pickTime">Select Time</string>
+	<string name="pickDate">Select Date</string>
+	<string name="YPQuerying">Sample Inquiring...</string>
+	<string name="searching">Searching...</string>
+	<string name="noPath">Path does not exist.</string>
+	<string name="nexting">Entering next step...</string>
+	<string name="loadSuccess">Loading successed.</string>
+	<string name="saveSuccess">Successed</string>
+	<string name="saveFail">Failed</string>
+	<string name="barcdoeInvalid">Invalid Barcode!</string>
+	<string name="imagenotSelected">No picture is selected.</string>
+	<string name="firstPage">Already the first page</string>
+	<string name="lastPage">Already the last page.</string>
+	<string name="executing">Executing...,please be patient.</string>
+	<string name="searchResult">Search result: total records </string>
+	<string name="loadItemTitle">Loading Title...</string>
+</resources>

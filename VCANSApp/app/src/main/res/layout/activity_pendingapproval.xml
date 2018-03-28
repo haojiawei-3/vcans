@@ -1,0 +1,181 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".Pendingapproval" >
+
+     <RelativeLayout
+        android:layout_alignParentTop="true"
+        android:background="@color/YPGreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/LinearLayout"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:src="@drawable/imgback"
+            android:background="@color/YPGreen"/>
+        
+         <TextView
+             android:layout_centerInParent="true"
+            android:id="@+id/tvActtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginLeft="23dp"
+            android:gravity="center_vertical"
+            android:text="待我审批"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+         
+      
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/tvNetStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textColor="#ffffff"
+            android:layout_marginRight="35dp"
+            android:textSize="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/imgNetStatus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/connected2"
+            android:text="@string/btn_reg" />
+     </RelativeLayout>
+
+    
+     
+       <RelativeLayout
+                    android:id="@+id/Layout"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="6dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/border1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/txtContent"
+                        style="@style/txtStyle"
+                        android:layout_width="match_parent"                      
+                        android:layout_height="35dp"
+                        android:layout_marginLeft="10dp" />
+                 
+
+                    <ImageButton
+                        android:id="@+id/btnSearch11"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="23dp"
+                        android:layout_height="23dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/ati"
+                        android:textColor="@android:color/black" />
+                     <ImageButton
+                        android:id="@+id/btnSearch"
+                        style="?android:attr/buttonBarButtonStyle"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="35dp"
+                        android:background="@drawable/scan"
+                        android:textColor="@android:color/black" />
+
+            </RelativeLayout>
+          
+       
+       
+       
+       
+       <!--   android:scrollbars="none"  -->
+       <!-- <com.example.pulltorefreshtest.RefreshableView
+        android:id="@+id/refreshable_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <ListView
+            android:id="@+id/list_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none" >
+        </ListView>
+    </com.example.pulltorefreshtest.RefreshableView> -->
+     <com.vcans.tool.playListview            
+            android:background="#F0EFF4"
+            android:id="@+id/refreshable_view"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+        <ListView
+             android:id="@+id/lvProdct"          
+             android:dividerHeight="0.5dp"
+             android:divider="#ACACAC" 
+             android:overScrollMode="never"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">          
+         </ListView>        
+        
+         <TextView 
+             android:text="无数据"
+             android:textColor="@color/black"
+             android:gravity="center"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/img"/>
+     </com.vcans.tool.playListview>
+     <LinearLayout 
+             android:id="@+id/Linear"
+             android:orientation="horizontal"
+             android:layout_width="match_parent"
+            
+             android:background="#F0EFF4"
+             android:visibility="gone"
+             android:layout_height="wrap_content">
+         <Button
+           android:id="@+id/caoz"
+           android:text="操作"
+           android:layout_width="match_parent"
+           android:background="@drawable/gdxq"
+           android:layout_weight="1"
+           android:textColor="#ffffff"
+           android:layout_marginLeft="5dp"
+           android:layout_marginRight="3dp"
+           android:layout_marginBottom="3dp"
+           android:layout_height="40dp"/>
+          <Button
+           android:id="@+id/dlt"
+           android:text="批量删除"
+           android:layout_weight="1"
+             android:textColor="#ffffff"
+           android:layout_width="match_parent"
+           android:background="@drawable/gdxq"
+            android:layout_marginLeft="3dp"
+           android:layout_marginRight="5dp"
+            android:layout_marginBottom="3dp"
+           android:layout_height="40dp"/>
+     </LinearLayout>
+     
+</LinearLayout>
